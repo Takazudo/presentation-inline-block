@@ -57,6 +57,7 @@ inline box の一種に atomic inline box ってのがある
 ## 応用例
 
 * [demo](http://codepen.io/takazudo/pen/lzFbL?editors=110)
+* [demo](http://codepen.io/takazudo/pen/wqIfs?editors=110)
 * [demo](http://codepen.io/takazudo/pen/wuoxl?editors=110)
 
 ----
@@ -70,6 +71,8 @@ inline box の一種に atomic inline box ってのがある
 
 ## 参考
 
+
+* [Visual formatting model](http://www.w3.org/TR/CSS2/visuren.html)
 * [Visual formatting model details](http://www.w3.org/TR/CSS2/visudet.html)
 * [Visual formatting model - Web developer guide | MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Visual_formatting_model)
 * [書籍などに紹介されていない display : inline-block について](http://www.yomotsu.net/works/081016cssnite/)
